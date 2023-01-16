@@ -1,0 +1,31 @@
+{
+		"firstName":"john",
+		"lastName":"Doe",
+		"bank":
+					{
+						 "bankId":1,
+						 "bankName1":"HDFC",
+						 "bankName2": "ICICI"
+
+					},				
+				
+		"address":[
+			
+			{
+				"street": "abc",
+				"city": "Hyderabad",
+				"state":"Tl"
+			},
+			{
+			
+				"street": "xyz",
+				"city": "Bangalore",
+				"state":"Tl"
+			}
+		
+		],
+		"employment":[
+						"Employee"
+					]
+		
+}

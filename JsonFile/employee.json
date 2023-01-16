@@ -1,0 +1,26 @@
+{
+		"firstName":"john",
+		"lastName":"Doe",
+		 "bookingDetails": "{\"reservationId\":\"100003822781535\",\"pnr\":\"4440643791\",\"trainName\":\"KAVERI EXPRESS\",\"total_fare\":145,\"trainNo\":\"16021\"}",
+		"tab" :[
+					"a1",
+					"b2",
+					"c2",
+					"d2"
+				],
+		"address": [
+						{
+							"street": "abc",
+							"city": "Hyderabad",
+							"state":"TL"
+						},
+						{
+						
+							"street": "xyz",
+							"city": "Bangalore",
+							"state":"Tl"
+						}
+					]
+			
+		
+}
